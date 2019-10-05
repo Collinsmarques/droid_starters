@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android_Starter</string>
+    <string name="welcome">Android first ui challenge</string>
+    <string name="welcome_note">Welcome to our first android challenge</string>
+    <string name="about_note">We are here to help you learn to develop amazing android applications from scratch. You do not need to know anything in coding</string>
+</resources>
